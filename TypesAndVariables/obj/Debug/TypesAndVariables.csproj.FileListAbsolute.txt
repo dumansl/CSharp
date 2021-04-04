@@ -1,0 +1,7 @@
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\TypesAndVariables\obj\Debug\TypesAndVariables.csprojAssemblyReference.cache
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\TypesAndVariables\obj\Debug\TypesAndVariables.pdb

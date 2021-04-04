@@ -1,0 +1,7 @@
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\Methods\bin\Debug\Methods.exe.config
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\Methods\bin\Debug\Methods.exe
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\Methods\bin\Debug\Methods.pdb
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\Methods\obj\Debug\Methods.exe
+C:\Users\DUMAN\Desktop\PROJELER\GitHub\CSharp\Methods\obj\Debug\Methods.pdb
